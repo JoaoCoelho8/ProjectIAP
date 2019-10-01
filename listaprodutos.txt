@@ -1,0 +1,10 @@
+produtos: 2
+
+nome: massa
+calorias: 120
+categoria: mercearia
+
+nome: pao
+calorias: 3
+categoria: ola
+

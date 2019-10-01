@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1483639661 source:c:\users\pc\desktop\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483639661 source:c:\users\pc\desktop\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483626944 source:c:\users\pc\desktop\projetofinal\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483628739 source:c:\users\pc\desktop\projetofinal\projetofinal\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483709158 source:c:\users\pc\desktop\nova pasta\projetofinal\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483962345 source:c:\users\pc\desktop\iapg\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483714031 source:c:\users\pc\desktop\iapg\iapg\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1483962345 source:c:\users\win 8\desktop\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
